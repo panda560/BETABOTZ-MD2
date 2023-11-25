@@ -23,7 +23,7 @@ global.dana = '-'
 global.pulsa = '081998863003'
 global.gopay = '-'
 global.namebot = 'Devantara inc.'
-global.gc = 'https://chat.whatsapp.com/C3y8SC2EmJWHurHEGl9S4D'
+global.gc = 'https://chat.whatsapp.com/GFCwnKQBzKl4jNIbp6U6tS'
 global.web = 'https://github.com/panda560'
 global.instagram = 'https://instagram.com/arrezza20'
 global.wm = '© Devantara inc.'
@@ -47,7 +47,7 @@ global.APIs = {
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.betabotz.org': 'Your_Key' //isi apikey mu https://api.betabotz.org
+  'https://api.betabotz.org': 'NQ4KtsFo' //isi apikey mu https://api.betabotz.org
 }
 
 global.multiplier = 45
