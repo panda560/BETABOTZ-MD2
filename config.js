@@ -41,7 +41,7 @@ global.author = 'ig : https://instagram.com/arrezza20'
 global.read = true//Untuk autoread kalau pengen autoread nyala true kalau pengen mati false 
 //==> Apikey
 global.lann = 'NQ4KtsFo' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.btc = 'Kq9zhdi6'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
